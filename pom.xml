@@ -11,6 +11,7 @@
 
     <modules>
         <module>quickstart-micro-service</module>
+        <module>spring-cloud-starter-kellerrush-nacos-discovery</module>
     </modules>
 
     <properties>
